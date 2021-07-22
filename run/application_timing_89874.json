@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Process Start",
+    "start": 1626968414704,
+    "end": 1626968418201,
+    "duration": 3497,
+    "pid": 89874,
+    "index": 0
+  },
+  {
+    "name": "Application Start",
+    "start": 1626968418201,
+    "end": 1626968418369,
+    "duration": 168,
+    "pid": 89874,
+    "index": 1
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1626968418202,
+    "end": 1626968418205,
+    "duration": 3,
+    "pid": 89874,
+    "index": 2
+  },
+  {
+    "name": "Load Config",
+    "start": 1626968418205,
+    "end": 1626968418209,
+    "duration": 4,
+    "pid": 89874,
+    "index": 3
+  },
+  {
+    "name": "Require(0) config/config.default.ts",
+    "start": 1626968418205,
+    "end": 1626968418205,
+    "duration": 0,
+    "pid": 89874,
+    "index": 4
+  },
+  {
+    "name": "Require(1) config/config.local.ts",
+    "start": 1626968418205,
+    "end": 1626968418205,
+    "duration": 0,
+    "pid": 89874,
+    "index": 5
+  },
+  {
+    "name": "Require(2) /Users/yuuang/Desktop/my-ssr/node_modules/egg-session/config/config.default.js",
+    "start": 1626968418205,
+    "end": 1626968418205,
+    "duration": 0,
+    "pid": 89874,
+    "index": 6
+  },
+  {
+    "name": "Require(3) /Users/yuuang/Desktop/my-ssr/node_modules/egg-security/config/config.default.js",
+    "start": 1626968418205,
+    "end": 1626968418205,
+    "duration": 0,
+    "pid": 89874,
+    "index": 7
+  },
+  {
+    "name": "Require(4) /Users/yuuang/Desktop/my-ssr/node_modules/egg-jsonp/config/config.default.js",
+    "start": 1626968418205,
+    "end": 1626968418206,
+    "duration": 1,
+    "pid": 89874,
+    "index": 8
+  },
+  {
+    "name": "Require(5) /Users/yuuang/Desktop/my-ssr/node_modules/egg-onerror/config/config.default.js",
+    "start": 1626968418206,
+    "end": 1626968418206,
+    "duration": 0,
+    "pid": 89874,
+    "index": 9
+  },
+  {
+    "name": "Require(6) /Users/yuuang/Desktop/my-ssr/node_modules/egg-i18n/config/config.default.js",
+    "start": 1626968418206,
+    "end": 1626968418206,
+    "duration": 0,
+    "pid": 89874,
+    "index": 10
+  },
+  {
+    "name": "Require(7) /Users/yuuang/Desktop/my-ssr/node_modules/egg-schedule/config/config.default.js",
+    "start": 1626968418206,
+    "end": 1626968418206,
+    "duration": 0,
+    "pid": 89874,
+    "index": 11
+  },
+  {
+    "name": "Require(8) /Users/yuuang/Desktop/my-ssr/node_modules/egg-multipart/config/config.default.js",
+    "start": 1626968418206,
+    "end": 1626968418206,
+    "duration": 0,
+    "pid": 89874,
+    "index": 12
+  },
+  {
+    "name": "Require(9) /Users/yuuang/Desktop/my-ssr/node_modules/egg-logrotator/config/config.default.js",
+    "start": 1626968418206,
+    "end": 1626968418206,
+    "duration": 0,
+    "pid": 89874,
+    "index": 13
+  },
+  {
+    "name": "Require(10) /Users/yuuang/Desktop/my-ssr/node_modules/egg-static/config/config.default.js",
+    "start": 1626968418206,
+    "end": 1626968418206,
+    "duration": 0,
+    "pid": 89874,
+    "index": 14
+  },
+  {
+    "name": "Require(11) /Users/yuuang/Desktop/my-ssr/node_modules/egg-view/config/config.default.js",
+    "start": 1626968418206,
+    "end": 1626968418206,
+    "duration": 0,
+    "pid": 89874,
+    "index": 15
+  },
+  {
+    "name": "Require(12) /Users/yuuang/Desktop/my-ssr/node_modules/egg/config/config.default.js",
+    "start": 1626968418207,
+    "end": 1626968418207,
+    "duration": 0,
+    "pid": 89874,
+    "index": 16
+  },
+  {
+    "name": "Require(13) /Users/yuuang/Desktop/my-ssr/node_modules/@midwayjs/web/config/config.default.js",
+    "start": 1626968418208,
+    "end": 1626968418208,
+    "duration": 0,
+    "pid": 89874,
+    "index": 17
+  },
+  {
+    "name": "Require(14) config/config.default.ts",
+    "start": 1626968418208,
+    "end": 1626968418208,
+    "duration": 0,
+    "pid": 89874,
+    "index": 18
+  },
+  {
+    "name": "Require(15) /Users/yuuang/Desktop/my-ssr/node_modules/egg-security/config/config.local.js",
+    "start": 1626968418208,
+    "end": 1626968418208,
+    "duration": 0,
+    "pid": 89874,
+    "index": 19
+  },
+  {
+    "name": "Require(16) /Users/yuuang/Desktop/my-ssr/node_modules/egg-view/config/config.local.js",
+    "start": 1626968418209,
+    "end": 1626968418209,
+    "duration": 0,
+    "pid": 89874,
+    "index": 20
+  },
+  {
+    "name": "Require(17) /Users/yuuang/Desktop/my-ssr/node_modules/egg/config/config.local.js",
+    "start": 1626968418209,
+    "end": 1626968418209,
+    "duration": 0,
+    "pid": 89874,
+    "index": 21
+  },
+  {
+    "name": "Require(18) config/config.local.ts",
+    "start": 1626968418209,
+    "end": 1626968418209,
+    "duration": 0,
+    "pid": 89874,
+    "index": 22
+  },
+  {
+    "name": "Load extend/application.js",
+    "start": 1626968418213,
+    "end": 1626968418223,
+    "duration": 10,
+    "pid": 89874,
+    "index": 23
+  },
+  {
+    "name": "Require(19) /Users/yuuang/Desktop/my-ssr/node_modules/egg-session/app/extend/application.js",
+    "start": 1626968418213,
+    "end": 1626968418213,
+    "duration": 0,
+    "pid": 89874,
+    "index": 24
+  },
+  {
+    "name": "Require(20) /Users/yuuang/Desktop/my-ssr/node_modules/egg-security/app/extend/application.js",
+    "start": 1626968418214,
+    "end": 1626968418214,
+    "duration": 0,
+    "pid": 89874,
+    "index": 25
+  },
+  {
+    "name": "Require(21) /Users/yuuang/Desktop/my-ssr/node_modules/egg-jsonp/app/extend/application.js",
+    "start": 1626968418214,
+    "end": 1626968418215,
+    "duration": 1,
+    "pid": 89874,
+    "index": 26
+  },
+  {
+    "name": "Require(22) /Users/yuuang/Desktop/my-ssr/node_modules/egg-logrotator/app/extend/application.js",
+    "start": 1626968418215,
+    "end": 1626968418215,
+    "duration": 0,
+    "pid": 89874,
+    "index": 27
+  },
+  {
+    "name": "Require(23) /Users/yuuang/Desktop/my-ssr/node_modules/egg-view/app/extend/application.js",
+    "start": 1626968418215,
+    "end": 1626968418217,
+    "duration": 2,
+    "pid": 89874,
+    "index": 28
+  },
+  {
+    "name": "Require(24) /Users/yuuang/Desktop/my-ssr/node_modules/egg-mock/app/extend/application.js",
+    "start": 1626968418217,
+    "end": 1626968418220,
+    "duration": 3,
+    "pid": 89874,
+    "index": 29
+  },
+  {
+    "name": "Require(25) /Users/yuuang/Desktop/my-ssr/node_modules/@midwayjs/mock/app/extend/application.js",
+    "start": 1626968418220,
+    "end": 1626968418221,
+    "duration": 1,
+    "pid": 89874,
+    "index": 30
+  },
+  {
+    "name": "Require(26) /Users/yuuang/Desktop/my-ssr/node_modules/@midwayjs/web/app/extend/application.js",
+    "start": 1626968418221,
+    "end": 1626968418222,
+    "duration": 1,
+    "pid": 89874,
+    "index": 31
+  },
+  {
+    "name": "Load extend/request.js",
+    "start": 1626968418223,
+    "end": 1626968418226,
+    "duration": 3,
+    "pid": 89874,
+    "index": 32
+  },
+  {
+    "name": "Require(27) /Users/yuuang/Desktop/my-ssr/node_modules/egg/app/extend/request.js",
+    "start": 1626968418224,
+    "end": 1626968418225,
+    "duration": 1,
+    "pid": 89874,
+    "index": 33
+  },
+  {
+    "name": "Load extend/response.js",
+    "start": 1626968418226,
+    "end": 1626968418230,
+    "duration": 4,
+    "pid": 89874,
+    "index": 34
+  },
+  {
+    "name": "Require(28) /Users/yuuang/Desktop/my-ssr/node_modules/egg/app/extend/response.js",
+    "start": 1626968418227,
+    "end": 1626968418228,
+    "duration": 1,
+    "pid": 89874,
+    "index": 35
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1626968418230,
+    "end": 1626968418231,
+    "duration": 1,
+    "pid": 89874,
+    "index": 36
+  },
+  {
+    "name": "Require(29) /Users/yuuang/Desktop/my-ssr/node_modules/egg-security/app/extend/context.js",
+    "start": 1626968418230,
+    "end": 1626968418230,
+    "duration": 0,
+    "pid": 89874,
+    "index": 37
+  },
+  {
+    "name": "Require(30) /Users/yuuang/Desktop/my-ssr/node_modules/egg-jsonp/app/extend/context.js",
+    "start": 1626968418230,
+    "end": 1626968418230,
+    "duration": 0,
+    "pid": 89874,
+    "index": 38
+  },
+  {
+    "name": "Require(31) /Users/yuuang/Desktop/my-ssr/node_modules/egg-i18n/app/extend/context.js",
+    "start": 1626968418230,
+    "end": 1626968418230,
+    "duration": 0,
+    "pid": 89874,
+    "index": 39
+  },
+  {
+    "name": "Require(32) /Users/yuuang/Desktop/my-ssr/node_modules/egg-multipart/app/extend/context.js",
+    "start": 1626968418230,
+    "end": 1626968418230,
+    "duration": 0,
+    "pid": 89874,
+    "index": 40
+  },
+  {
+    "name": "Require(33) /Users/yuuang/Desktop/my-ssr/node_modules/egg-view/app/extend/context.js",
+    "start": 1626968418230,
+    "end": 1626968418230,
+    "duration": 0,
+    "pid": 89874,
+    "index": 41
+  },
+  {
+    "name": "Require(34) /Users/yuuang/Desktop/my-ssr/node_modules/egg/app/extend/context.js",
+    "start": 1626968418230,
+    "end": 1626968418230,
+    "duration": 0,
+    "pid": 89874,
+    "index": 42
+  },
+  {
+    "name": "Require(35) /Users/yuuang/Desktop/my-ssr/node_modules/@midwayjs/web/app/extend/context.js",
+    "start": 1626968418230,
+    "end": 1626968418230,
+    "duration": 0,
+    "pid": 89874,
+    "index": 43
+  },
+  {
+    "name": "Load extend/helper.js",
+    "start": 1626968418231,
+    "end": 1626968418246,
+    "duration": 15,
+    "pid": 89874,
+    "index": 44
+  },
+  {
+    "name": "Require(36) /Users/yuuang/Desktop/my-ssr/node_modules/egg-security/app/extend/helper.js",
+    "start": 1626968418231,
+    "end": 1626968418244,
+    "duration": 13,
+    "pid": 89874,
+    "index": 45
+  },
+  {
+    "name": "Require(37) /Users/yuuang/Desktop/my-ssr/node_modules/egg/app/extend/helper.js",
+    "start": 1626968418245,
+    "end": 1626968418245,
+    "duration": 0,
+    "pid": 89874,
+    "index": 46
+  },
+  {
+    "name": "Load app.js",
+    "start": 1626968418246,
+    "end": 1626968418271,
+    "duration": 25,
+    "pid": 89874,
+    "index": 47
+  },
+  {
+    "name": "Require(38) /Users/yuuang/Desktop/my-ssr/node_modules/egg-session/app.js",
+    "start": 1626968418246,
+    "end": 1626968418247,
+    "duration": 1,
+    "pid": 89874,
+    "index": 48
+  },
+  {
+    "name": "Require(39) /Users/yuuang/Desktop/my-ssr/node_modules/egg-security/app.js",
+    "start": 1626968418247,
+    "end": 1626968418248,
+    "duration": 1,
+    "pid": 89874,
+    "index": 49
+  },
+  {
+    "name": "Require(40) /Users/yuuang/Desktop/my-ssr/node_modules/egg-onerror/app.js",
+    "start": 1626968418248,
+    "end": 1626968418254,
+    "duration": 6,
+    "pid": 89874,
+    "index": 50
+  },
+  {
+    "name": "Require(41) /Users/yuuang/Desktop/my-ssr/node_modules/egg-i18n/app.js",
+    "start": 1626968418254,
+    "end": 1626968418265,
+    "duration": 11,
+    "pid": 89874,
+    "index": 51
+  },
+  {
+    "name": "Require(42) /Users/yuuang/Desktop/my-ssr/node_modules/egg-schedule/app.js",
+    "start": 1626968418265,
+    "end": 1626968418266,
+    "duration": 1,
+    "pid": 89874,
+    "index": 52
+  },
+  {
+    "name": "Require(43) /Users/yuuang/Desktop/my-ssr/node_modules/egg-multipart/app.js",
+    "start": 1626968418266,
+    "end": 1626968418267,
+    "duration": 1,
+    "pid": 89874,
+    "index": 53
+  },
+  {
+    "name": "Require(44) /Users/yuuang/Desktop/my-ssr/node_modules/egg-logrotator/app.js",
+    "start": 1626968418267,
+    "end": 1626968418267,
+    "duration": 0,
+    "pid": 89874,
+    "index": 54
+  },
+  {
+    "name": "Require(45) /Users/yuuang/Desktop/my-ssr/node_modules/egg-static/app.js",
+    "start": 1626968418267,
+    "end": 1626968418268,
+    "duration": 1,
+    "pid": 89874,
+    "index": 55
+  },
+  {
+    "name": "Require(46) /Users/yuuang/Desktop/my-ssr/node_modules/midway-schedule/app.js",
+    "start": 1626968418268,
+    "end": 1626968418269,
+    "duration": 1,
+    "pid": 89874,
+    "index": 56
+  },
+  {
+    "name": "Require(47) /Users/yuuang/Desktop/my-ssr/node_modules/egg-mock/app.js",
+    "start": 1626968418269,
+    "end": 1626968418269,
+    "duration": 0,
+    "pid": 89874,
+    "index": 57
+  },
+  {
+    "name": "Require(48) /Users/yuuang/Desktop/my-ssr/node_modules/@midwayjs/web/app.js",
+    "start": 1626968418269,
+    "end": 1626968418270,
+    "duration": 1,
+    "pid": 89874,
+    "index": 58
+  },
+  {
+    "name": "Require(49) app.ts",
+    "start": 1626968418270,
+    "end": 1626968418270,
+    "duration": 0,
+    "pid": 89874,
+    "index": 59
+  },
+  {
+    "name": "Did Load in /Users/yuuang/Desktop/my-ssr/node_modules/@midwayjs/web/app.js:didLoad",
+    "start": 1626968418276,
+    "end": 1626968418355,
+    "duration": 79,
+    "pid": 89874,
+    "index": 60
+  },
+  {
+    "name": "Load Service",
+    "start": 1626968418276,
+    "end": 1626968418279,
+    "duration": 3,
+    "pid": 89874,
+    "index": 61
+  },
+  {
+    "name": "Load \"service\" to Context",
+    "start": 1626968418276,
+    "end": 1626968418279,
+    "duration": 3,
+    "pid": 89874,
+    "index": 62
+  },
+  {
+    "name": "Load Middleware",
+    "start": 1626968418279,
+    "end": 1626968418354,
+    "duration": 75,
+    "pid": 89874,
+    "index": 63
+  },
+  {
+    "name": "Load \"middlewares\" to Application",
+    "start": 1626968418279,
+    "end": 1626968418354,
+    "duration": 75,
+    "pid": 89874,
+    "index": 64
+  },
+  {
+    "name": "Load Controller",
+    "start": 1626968418354,
+    "end": 1626968418354,
+    "duration": 0,
+    "pid": 89874,
+    "index": 65
+  },
+  {
+    "name": "Load \"controller\" to Application",
+    "start": 1626968418354,
+    "end": 1626968418354,
+    "duration": 0,
+    "pid": 89874,
+    "index": 66
+  },
+  {
+    "name": "Load Router",
+    "start": 1626968418354,
+    "end": 1626968418354,
+    "duration": 0,
+    "pid": 89874,
+    "index": 67
+  },
+  {
+    "name": "Will Ready in /Users/yuuang/Desktop/my-ssr/node_modules/@midwayjs/web/app.js:willReady",
+    "start": 1626968418355,
+    "end": 1626968418367,
+    "duration": 12,
+    "pid": 89874,
+    "index": 68
+  }
+]

@@ -1,0 +1,15 @@
+2021-07-22 23:40:21,800 ERROR 89874 [-/127.0.0.1/-/191ms GET /] nodejs.ReferenceError: HTMLElement is not defined
+    at isNode (/Users/yuuang/Desktop/my-ssr/node_modules/swiper/cjs/utils/utils.js:115:28)
+    at extend (/Users/yuuang/Desktop/my-ssr/node_modules/swiper/cjs/utils/utils.js:128:61)
+    at new Swiper (/Users/yuuang/Desktop/my-ssr/node_modules/swiper/cjs/components/core/core-class.js:93:32)
+    at initSwiper (/Users/yuuang/Desktop/my-ssr/node_modules/swiper/cjs/react/init-swiper.js:15:10)
+    at Object.Swiper (/Users/yuuang/Desktop/my-ssr/node_modules/swiper/cjs/react/swiper.js:95:52)
+    at ReactDOMServerRenderer.render (/Users/yuuang/Desktop/my-ssr/node_modules/react-dom/cjs/react-dom-server.node.development.js:3872:44)
+    at ReactDOMServerRenderer.read (/Users/yuuang/Desktop/my-ssr/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at ReactMarkupReadableStream._read (/Users/yuuang/Desktop/my-ssr/node_modules/react-dom/cjs/react-dom-server.node.development.js:4349:38)
+    at ReactMarkupReadableStream.Readable.read (internal/streams/readable.js:462:10)
+    at resume_ (internal/streams/readable.js:958:12)
+headerSent: true
+pid: 89874
+hostname: YUUANGZHANG-MB0
+
